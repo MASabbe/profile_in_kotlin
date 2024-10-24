@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="profile11">NIM :245411070</string>
+    <string name="profile12">NAME : Muhammad Abu Bakar Siddiq</string>
+    <string name="profile13">ADDRESS : YOGYAKARTA</string>
+    <string name="profile21">NIM :305411079</string>
+    <string name="profile22">NAME : Stafanus Tetanus</string>
+    <string name="profile23">ADDRESS : MEDAN</string>
+    <string name="profile31">NIM :135411070</string>
+    <string name="profile32">NAME : Rodrigo de Castro</string>
+    <string name="profile33">ADDRESS : NGANJUK</string>
+</resources>
